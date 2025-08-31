@@ -1,2 +1,2 @@
 # aula pratica
-este repositoria é um teste da aula pratica
+este repositorio é um teste da aula pratica
